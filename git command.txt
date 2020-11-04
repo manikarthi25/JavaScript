@@ -1,0 +1,15 @@
+git init .
+
+git remote add origin https://github.com/manikarthi25/JavaScript.git
+
+git clone https://github.com/manikarthi25/JavaScript.git
+
+git status
+
+git add .
+
+git commit -m "Initial commit"
+
+git push
+
+git status
