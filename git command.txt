@@ -13,3 +13,6 @@ git commit -m "Initial commit"
 git push
 
 git status
+
+
+https://github.com/jonasschmedtmann/complete-javascript-course
