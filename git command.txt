@@ -4,6 +4,8 @@ git remote add origin https://github.com/manikarthi25/JavaScript.git
 
 git clone https://github.com/manikarthi25/JavaScript.git
 
+git config --global user.email "manikarthi25@gmail.com"
+
 git status
 
 git add .
