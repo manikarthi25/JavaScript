@@ -1,3 +1,4 @@
+console.log("Function Example");
 function add(a, b) {
     console.log(a + b)
 }

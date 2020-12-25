@@ -1,3 +1,4 @@
+console.log("Object Example");
 var bioData = {
     name : "mani",
     mobileNumber: "xxxxxx",

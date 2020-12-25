@@ -1,3 +1,4 @@
+console.log("Variable Rule Example");
 var add = 10 + 20;
 var concat = 'java' + 'script';
 console.log(add);
