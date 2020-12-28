@@ -4,6 +4,9 @@ import './javascript/welcome';
 import './javascript/letvsconst';
 import './javascript/restandspread';
 import './javascript/arrowfunction';
+import './javascript/mapex';
+import './javascript/filterex';
+import './javascript/stringfunction';
 
 function App() {
   return (
@@ -14,7 +17,10 @@ function App() {
         <script src='./javascript/welcome.js'/>
         <script src='./javascript/letvsconst.js'/>
         <script src='./javascript/restandspread.js'/>
-        <script src='./javascript/arrowfunction'/>
+        <script src='./javascript/arrowfunction.js'/>
+        <script src='./javascript/mapex.js'/>
+        <script src='./javascript/filterex.js'/>
+        <script src='./javascript/stringfunction.js'/>
 
         <p>
           Edit <code>src/App.js</code> and save to reload.

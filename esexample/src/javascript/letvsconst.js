@@ -16,7 +16,7 @@ console.log('const - outside Block :', b);
 
 var c = 10;
 function show() {
-    const c = 20;
+    var c = 20;
     console.log('var - inside Block :', c);
 }
 show();
