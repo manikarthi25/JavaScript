@@ -7,6 +7,10 @@ import './javascript/arrowfunction';
 import './javascript/mapex';
 import './javascript/filterex';
 import './javascript/stringfunction';
+import './javascript/importex';
+import './javascript/ChildClass';
+import './javascript/staticmethodex';
+import './javascript/prototypeex';
 
 function App() {
   return (
@@ -21,6 +25,10 @@ function App() {
         <script src='./javascript/mapex.js'/>
         <script src='./javascript/filterex.js'/>
         <script src='./javascript/stringfunction.js'/>
+        <script src='./javascript/importex.js'/>
+        <script src='./javascript/ChildClass.js'/>
+        <script src='./javascript/staticmethodex.js'/>
+        <script src='./javascript/prototypeex.js'/>
 
         <p>
           Edit <code>src/App.js</code> and save to reload.
