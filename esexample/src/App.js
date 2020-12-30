@@ -11,6 +11,8 @@ import './javascript/importex';
 import './javascript/ChildClass';
 import './javascript/staticmethodex';
 import './javascript/prototypeex';
+import './javascript/setex';
+import './javascript/mapdsex';
 
 function App() {
   return (
@@ -29,6 +31,8 @@ function App() {
         <script src='./javascript/ChildClass.js'/>
         <script src='./javascript/staticmethodex.js'/>
         <script src='./javascript/prototypeex.js'/>
+        <script src='./javascript/setex.js'/>
+        <script src='./javascript/mapdsex.js'/>
 
         <p>
           Edit <code>src/App.js</code> and save to reload.
