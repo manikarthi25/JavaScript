@@ -1,0 +1,29 @@
+console.log("ES8 - async example");
+
+async function async_one() {
+    return "one";
+}
+
+async function async_two() {
+    return "two";
+}
+
+async function async_three() {
+    let one = await async_one();
+    console.log(one);
+
+    let two = await async_two();
+    console.log(two);
+}
+
+async_three();
+
+async function async_four() {
+    const [res_one, res_two] = await Promise.all(
+        [async_one(), async_two()]
+    );
+
+    console.log(res_one, res_two);
+}
+
+async_four();

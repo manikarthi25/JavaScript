@@ -13,6 +13,13 @@ import './javascript/staticmethodex';
 import './javascript/prototypeex';
 import './javascript/setex';
 import './javascript/mapdsex';
+import './javascript/closureex';
+import './javascript/functionfactory';
+import './javascript/generatorex';
+import './javascript/promisesex';
+import './javascript/fetchapi';
+import './javascript/es7andes8';
+import './javascript/asyncex';
 
 function App() {
   return (
@@ -33,6 +40,13 @@ function App() {
         <script src='./javascript/prototypeex.js'/>
         <script src='./javascript/setex.js'/>
         <script src='./javascript/mapdsex.js'/>
+        <script src='./javascript/closureex.js'/>
+        <script src='./javascript/functionfactory.js'/>
+        <script src='./javascript/generatorex.js'/>
+        <script src='./javascript/promisesex.js'/>
+        <script src='./javascript/fetchapi.js'/>
+        <script src='./javascript/es7andes8.js'/>
+        <script src='./javascript/asyncex.js'/>
 
         <p>
           Edit <code>src/App.js</code> and save to reload.
